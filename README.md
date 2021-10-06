@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @asteves
 - 👀 I’m interested in political science, political methodology, and R
-- 🌱 I’m currently learning R
+- 🌱 I’m currently building software tools for causal inference and fun graphs in R
 - 📫 @aadastephenson on twitter 
 
 <!---
